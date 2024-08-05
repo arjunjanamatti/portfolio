@@ -1,4 +1,4 @@
-# Arjun Janamatti - Senior Data Scientist
+# Senior Data Scientist
 
 ## Contact Information
 - 📞 **Phone:** +91 8431849759
