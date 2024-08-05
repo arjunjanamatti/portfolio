@@ -54,6 +54,26 @@ Over 14 years of diverse experience in Data Science and Mechanical Engineering. 
 
 ## Projects
 
+### Retrieval Augmented Generation (RAG) Projects
+
+#### RAG_1
+**Summary:** Developed a Retrieval Augmented Generation (RAG) system to enhance information retrieval and generation capabilities.
+
+**Repository:** [RAG_1](https://github.com/arjunjanamatti/RAG_1) 
+
+**Approach:** Implemented a pipeline to populate a database and retrieve relevant information using advanced NLP techniques.
+
+**Tools:** Python, various NLP libraries
+
+#### RAG_local
+**Summary:** Built a local RAG system to ensure data privacy and reduce token costs, enabling efficient information retrieval and generation on local machines.
+
+**Repository:** [RAG_local](https://github.com/arjunjanamatti/RAG_local)
+
+**Approach:** Set up a local RAG pipeline using open-source tools to process and retrieve information from local data sources.
+
+**Tools:** Python, local deployment tools
+
 ### Single Echelon Inventory Optimization
 **Summary:** Optimized safety stock calculations using feedback learning, resulting in a reduction of 100 ME in the first year across 90% of factories and distribution centers.
 
@@ -133,23 +153,3 @@ Over 14 years of diverse experience in Data Science and Mechanical Engineering. 
 - 📝 Spacy for NLP
 
 **Tools:** Python, AWS, Tableau, numpy, pandas, scipy, math, OpenCV, tensorflow, deepspeech
-
-### Retrieval Augmented Generation (RAG) Projects
-
-#### RAG_1
-**Summary:** Developed a Retrieval Augmented Generation (RAG) system to enhance information retrieval and generation capabilities.
-
-**Repository:** RAG_1
-
-**Approach:** Implemented a pipeline to populate a database and retrieve relevant information using advanced NLP techniques.
-
-**Tools:** Python, various NLP libraries
-
-#### RAG_local
-**Summary:** Built a local RAG system to ensure data privacy and reduce token costs, enabling efficient information retrieval and generation on local machines.
-
-**Repository:** RAG_local
-
-**Approach:** Set up a local RAG pipeline using open-source tools to process and retrieve information from local data sources.
-
-**Tools:** Python, local deployment tools
