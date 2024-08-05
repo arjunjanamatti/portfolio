@@ -9,7 +9,7 @@
 - 🔗 **LinkedIn:** linkedin.com/in/arjun-janamatti-b5b8789
 
 ## Summary
-Over 14 years of diverse experience in Data Science and Mechanical Engineering. Currently a Senior Data Scientist at Rockwell Automation, specializing in the CIAM domain.
+Over 14 years of diverse experience in Data Science and Mechanical Engineering. Currently a Senior Data Scientist at Rockwell Automation, specializing in the CIAM domain, with 4.5 years of experience as a Data Scientist.
 
 ## Technical Skills
 - 💻 **Languages:** Python, R, SQL
