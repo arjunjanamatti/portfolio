@@ -4,9 +4,9 @@
 - 📞 **Phone:** +91 8431849759
 - 📍 **Location:** Bangalore, India
 - 📧 **Email:** arjunjanamatti@gmail.com
-- 🏅 **Kaggle:** kaggle.com/arjunjanamatti
-- 💻 **GitHub:** github.com/arjunjanamatti
-- 🔗 **LinkedIn:** linkedin.com/in/arjun-janamatti-b5b8789
+- 🏅 **Kaggle:** [kaggle.com/arjunjanamatti](https://www.kaggle.com/arjunjanamatti)
+- 💻 **GitHub:** [github.com/arjunjanamatti](https://github.com/arjunjanamatti)
+- 🔗 **LinkedIn:** [linkedin.com/in/arjun-janamatti-b5b8789](https://www.linkedin.com/in/arjun-janamatti-b5b8789/)
 
 ## Summary
 Over 14 years of diverse experience in Data Science and Mechanical Engineering. Currently a Senior Data Scientist at Rockwell Automation, specializing in the CIAM domain, with 4.5 years of experience as a Data Scientist.
