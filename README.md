@@ -4,45 +4,45 @@
 - 📞 **Phone:** +91 8431849759
 - 📍 **Location:** Bangalore, India
 - 📧 **Email:** arjunjanamatti@gmail.com
-- 🏅 **Kaggle:** [kaggle.com/arjunjanamatti](https://www.kaggle.com/arjunjanamatti)
-- 💻 **GitHub:** [github.com/arjunjanamatti](https://github.com/arjunjanamatti)
-- 🔗 **LinkedIn:** [linkedin.com/in/arjun-janamatti-b5b8789](https://www.linkedin.com/in/arjun-janamatti-b5b8789/)
+- 🏅 **Kaggle:** kaggle.com/arjunjanamatti
+- 💻 **GitHub:** github.com/arjunjanamatti
+- 🔗 **LinkedIn:** linkedin.com/in/arjun-janamatti-b5b8789
 
 ## Summary
-Over 14 years of diverse experience in Data Science and Mechanical Engineering. Currently a Senior Data Scientist at Rockwell Automation, specializing in the CIAM domain, with 4.5 years of experience as a Data Scientist.
+Possess over 15 years of diverse experience spanning Data Science and Mechanical Engineering, with a strong focus on Generative AI technologies. Currently working as a Senior Data Scientist at Rockwell Automation in the cybersecurity domain.
 
 ## Technical Skills
 - 💻 **Languages:** Python, R, SQL
-- 🛠️ **Tech Stack:** Git, AWS, Azure, Jupyter Notebook, Pycharm, Visual Studio Code, LaTeX
+- 🛠️ **Tech Stack:** Generative AI, Large Language Models (LLMs), Git, AWS, Azure, Jupyter Notebook, Pycharm, Visual Studio Code, LaTeX
 
 ## Technical Experience
 
 ### Senior Data Scientist, Rockwell Automation
 **Jan 2024 - Present | Bangalore, India**
+- 🤖 **Led the development** of a GenAI chatbot using Azure OpenAI Service, translating natural language queries into SQL commands for efficient data analysis in Azure SQL Database, significantly enhancing data accessibility.
+- 🧠 **Pioneered** a RAG architecture with 16 Azure AI Search vector stores, enabling advanced ambiguity resolution, few-shot learning, and dynamic context adaptation, driving innovation in data retrieval.
 - 📊 Devised a data pipeline with Azure Data Factory for efficient data flow from SQL Server to Azure Data Lake Storage.
 - 🔄 Implemented data transformations in Azure Databricks, ensuring data integrity and consistency.
 - 📈 Created a Power BI dashboard to visualize Key Performance Indicators for the IAM domain.
 
 ### DGM-Data Scientist, Schneider Electric
 **June 2021 - Oct 2023 | Bangalore, India**
-- 🚀 Executed a POC for deploying open-source SLM on AWS.
+- 🚀 Executed a POC for deploying open-source SLM on AWS, fine-tuned for direct SQL query responses from textual input, showcasing the potential of GenAI in operational efficiency.
 - 📉 Streamlined safety stock calculations with feedback learning.
 - 🌐 Applied network modeling and a Genetic algorithm optimizer for Multi Echelon Inventory Optimization.
 - 📊 Revamped Demand Forecasting with statistical methods, boosting forecasting accuracy by 5%.
 
 ### Python Developer, ScalingWeb
 **Jan 2021 - May 2021 | Bangalore, India**
-- 🛠️ Developed a Flask API for content moderation in a mobile app.
-- 🎧 Utilized 'deepspeech' models for audio analysis and OpenCV for image processing.
+- 🛠️ Developed a Flask API for content moderation in a mobile app, detecting inappropriate language and imagery using machine learning, and utilized ‘deepspeech’ models for audio analysis and OpenCV for image processing to maintain content integrity.
 
 ### Project Manager/Data Scientist, Biztechnosys Infotech Pvt Ltd
 **Jan 2019 - Dec 2020 | Bangalore, India**
-- 📊 Worked on data pre-processing, analysis, and visualization using Python and Microsoft Power BI.
-- 📈 Managed projects related to CRM, web development, and mobile applications.
+- 📊 Worked on data pre-processing, analysis, and visualization using Python and Microsoft Power BI. Managed projects related to CRM, web development, CMS (Sitecore, Umbraco), and mobile applications using Hybrid technology.
 
 ### Mechanical Engineer, Applus Velosi
 **Aug 2007 - May 2016 | Muscat, Oman**
-- 🔍 Conducted inspections for NDE, Destructive testing, Hydrotesting, and FAT for Valves, Pipes, and fittings.
+- 🔍 Conducted inspections for NDE, destructive testing, hydrotesting, and FAT for valves, pipes, and fittings in oil and gas projects.
 
 ## Education
 - 🎓 **Master of Science in Petroleum Engineering**, University of Tulsa (Aug 2016 - Dec 2018)
@@ -59,7 +59,7 @@ Over 14 years of diverse experience in Data Science and Mechanical Engineering. 
 #### RAG_1
 **Summary:** Developed a Retrieval Augmented Generation (RAG) system to enhance information retrieval and generation capabilities.
 
-**Repository:** [RAG_1](https://github.com/arjunjanamatti/RAG_1) 
+**Repository:** RAG_1 
 
 **Approach:** Implemented a pipeline to populate a database and retrieve relevant information using advanced NLP techniques.
 
@@ -68,7 +68,7 @@ Over 14 years of diverse experience in Data Science and Mechanical Engineering. 
 #### RAG_local
 **Summary:** Built a local RAG system to ensure data privacy and reduce token costs, enabling efficient information retrieval and generation on local machines.
 
-**Repository:** [RAG_local](https://github.com/arjunjanamatti/RAG_local)
+**Repository:** RAG_local
 
 **Approach:** Set up a local RAG pipeline using open-source tools to process and retrieve information from local data sources.
 
